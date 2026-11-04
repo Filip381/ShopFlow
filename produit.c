@@ -216,7 +216,7 @@ void modifierProduit(Boutique *b)
     }
 }
 
-void supprimerProduit(Boutique *b)
+void supprimerProduit(Boutique *b) // !!! J'ai pas encore réussi à ajouter la condition où ça annule la suppression si le produit est dans une commande non annulée 
 {
     char reference[12];
     int i, j;
