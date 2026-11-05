@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/Alex zc/Desktop/ShopFlow_Clair/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\ShopFlow_Clair.dir\\client.c.obj -c \"C:\\Users\\Alex zc\\Desktop\\ShopFlow_Clair\\client.c\"",
+  "file": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/client.c",
+  "output": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug/CMakeFiles/ShopFlow_Clair.dir/client.c.obj"
+},
+{
+  "directory": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/Alex zc/Desktop/ShopFlow_Clair/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\ShopFlow_Clair.dir\\commande.c.obj -c \"C:\\Users\\Alex zc\\Desktop\\ShopFlow_Clair\\commande.c\"",
+  "file": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/commande.c",
+  "output": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug/CMakeFiles/ShopFlow_Clair.dir/commande.c.obj"
+},
+{
+  "directory": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/Alex zc/Desktop/ShopFlow_Clair/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\ShopFlow_Clair.dir\\initialisation.c.obj -c \"C:\\Users\\Alex zc\\Desktop\\ShopFlow_Clair\\initialisation.c\"",
+  "file": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/initialisation.c",
+  "output": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug/CMakeFiles/ShopFlow_Clair.dir/initialisation.c.obj"
+},
+{
+  "directory": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/Alex zc/Desktop/ShopFlow_Clair/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\ShopFlow_Clair.dir\\main.c.obj -c \"C:\\Users\\Alex zc\\Desktop\\ShopFlow_Clair\\main.c\"",
+  "file": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/main.c",
+  "output": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug/CMakeFiles/ShopFlow_Clair.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/Alex zc/Desktop/ShopFlow_Clair/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\ShopFlow_Clair.dir\\produit.c.obj -c \"C:\\Users\\Alex zc\\Desktop\\ShopFlow_Clair\\produit.c\"",
+  "file": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/produit.c",
+  "output": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug/CMakeFiles/ShopFlow_Clair.dir/produit.c.obj"
+},
+{
+  "directory": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/Alex zc/Desktop/ShopFlow_Clair/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\ShopFlow_Clair.dir\\statistique.c.obj -c \"C:\\Users\\Alex zc\\Desktop\\ShopFlow_Clair\\statistique.c\"",
+  "file": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/statistique.c",
+  "output": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug/CMakeFiles/ShopFlow_Clair.dir/statistique.c.obj"
+},
+{
+  "directory": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/Alex zc/Desktop/ShopFlow_Clair/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\ShopFlow_Clair.dir\\utils.c.obj -c \"C:\\Users\\Alex zc\\Desktop\\ShopFlow_Clair\\utils.c\"",
+  "file": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/utils.c",
+  "output": "C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug/CMakeFiles/ShopFlow_Clair.dir/utils.c.obj"
+}
+]

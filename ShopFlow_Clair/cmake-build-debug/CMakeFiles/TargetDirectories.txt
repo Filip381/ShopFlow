@@ -1,0 +1,3 @@
+C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug/CMakeFiles/ShopFlow_Clair.dir
+C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alex zc/Desktop/ShopFlow_Clair/cmake-build-debug/CMakeFiles/rebuild_cache.dir
